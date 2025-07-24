@@ -1,4 +1,10 @@
-D 'DEA': Data envelopment analysis
+D 'dirifit': Fitting a Dirichlet distribution by maximum likelihood Use dirifit And ddirifit With STATA 19
 D
-F dea.ado
-F dea.sthlp
+F ddirifit.ado
+F ddirifit.hlp
+F dirifit.ado
+F dirifit.hlp
+F dirifit_ex.ado
+F dirifit_lf.ado
+F dirifit_p.ado
+F dirireg_lf.ado
