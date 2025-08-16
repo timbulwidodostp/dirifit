@@ -1,6 +1,8 @@
 # dirifit
 Fitting a Dirichlet distribution by maximum likelihood Use dirifit And ddirifit With STATA 19
 
+https://www.youtube.com/watch?v=CzPQ8vxVeqU
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
